@@ -1,9 +1,12 @@
 package org.add;
 
 public class GreensTech {
+	
 public void greensOmr() {
 	System.out.println("omr branch");
 	System.out.println("Hi Hello");
+	System.out.println("chennai");
+	System.out.println("madras");
 }
 public void greensAdayar() {
 	System.out.println("adayar branch");
