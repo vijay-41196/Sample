@@ -3,6 +3,7 @@ package org.add;
 public class GreensTech {
 public void greensOmr() {
 	System.out.println("omr branch");
+	System.out.println("Hi Hello");
 }
 public void greensAdayar() {
 	System.out.println("adayar branch");
